@@ -60,11 +60,11 @@ a{
 
 .button a{
     padding: 10px 30px;
-    /* margin: 60px auto; */
     border-radius: 10px;
     border: 2px solid #aaa;
     background-color: #fff;
     box-shadow: 0 2px 3px 0 rgba(0,0,0,0.2), 0 4px 2px 0 rgba(0,0,0,0.1);
+    color: #000;
 }
   
     
