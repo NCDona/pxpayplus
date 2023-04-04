@@ -60,6 +60,18 @@ a{
 .button{
     padding: 30px 10px;
 }
+
+.button.pxmart a{
+    background-color: #ACD6FF;
+}
+
+.button.personal a{
+    background-color: pink;
+}
+
+.button.line a{
+    background-color: aquamarine;
+}
   
 img{
     width: 80%;
